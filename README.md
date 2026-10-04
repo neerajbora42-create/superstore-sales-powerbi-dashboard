@@ -161,7 +161,7 @@ DIVIDE ( [Total Sales] - [Sales LY], [Sales LY] )
 - **Sales and Profit by Month** (stacked area, split by year)
 - **Profit and Sales by State** (map)
 
-- ![Summary Page](images/01_summary_dashboard.png)
+- ![Summary Page](Images/01_summary_dashboard.png)
 
 
 
