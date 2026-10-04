@@ -168,7 +168,9 @@ DIVIDE ( [Total Sales] - [Sales LY], [Sales LY] )
 ### Page 2: Sales Forecast (15 Days)
 - Daily sales line chart with Power BI's built-in **forecast** (95% confidence band)
 - **Sales by State** bar chart
-![Forecast Page](Images/02_forecast_dashboard.png.png
+
+- 
+![Forecast Page](Images/02_forecast_dashboard.png.png)
 
 ---
 
