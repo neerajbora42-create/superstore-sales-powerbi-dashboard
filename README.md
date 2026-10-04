@@ -275,6 +275,6 @@ superstore-sales-powerbi-dashboard/
 **Neeraj Singh Bora (Neeru)**
 Senior AR Associate | RCM Professional moving into Data Analytics
 
-🔗 [LinkedIn](<YOUR-LINKEDIN-URL>) &nbsp;|&nbsp; 🎥 [YouTube](<YOUR-YOUTUBE-URL>) &nbsp;|&nbsp; 📧 <YOUR-EMAIL>
+🔗 [LinkedIn](<www.linkedin.com/in/neeraj-singh-bora-577486274>) &nbsp;|&nbsp; 🎥 [YouTube](<www.youtube.com/@healthCareAnalystatOptum>) &nbsp;|&nbsp; 📧 <neerajbora42@gmail.com>
 
 ⭐ If you found this project useful, please star the repo!
