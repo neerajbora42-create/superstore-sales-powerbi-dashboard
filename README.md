@@ -161,6 +161,9 @@ DIVIDE ( [Total Sales] - [Sales LY], [Sales LY] )
 - **Sales and Profit by Month** (stacked area, split by year)
 - **Profit and Sales by State** (map)
 
+- (images/01_summary_dashboard.png)
+
+
 
 ### Page 2: Sales Forecast (15 Days)
 - Daily sales line chart with Power BI's built-in **forecast** (95% confidence band)
