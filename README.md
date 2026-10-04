@@ -14,7 +14,6 @@ EDIT BEFORE PUBLISHING:
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-![Dashboard Preview](images/01_summary_dashboard.png)
 
 </div>
 
